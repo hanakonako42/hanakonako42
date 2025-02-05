@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - リポジトリ名：{language/service}-{framework/service}-{content}
 - ブランチ名：feature/{number}\_{initials}\_{content}
 
-- [定期的に振り返るが優先度低め事項をメモしておくシート](https://docs.google.com/spreadsheets/d/e/2PACX-1vQpXDYm-1INi8sCqHJo6mOzuz1o5IwRlo-mgcLqvLIKE3lN2LuJfO69oSdSwDH2PAGykUm-9sMWv0Dx/pubhtml)
+- [思いついたことをとりあえず書き殴って定期的に振り返るシート](https://docs.google.com/spreadsheets/d/e/2PACX-1vQpXDYm-1INi8sCqHJo6mOzuz1o5IwRlo-mgcLqvLIKE3lN2LuJfO69oSdSwDH2PAGykUm-9sMWv0Dx/pubhtml)
 
 <!--
 **hanakonako42/hanakonako42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
